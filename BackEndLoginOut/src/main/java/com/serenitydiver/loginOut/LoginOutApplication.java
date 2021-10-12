@@ -9,8 +9,11 @@ public class LoginOutApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LoginOutApplication.class, args);
 
-		// Original Tutorial which i have followed.
+		// Original Tutorial for Login, SignUp & JWT Authentication.
 		// https://www.bezkoder.com/spring-boot-security-postgresql-jwt-authentication/
+
+		// Original Tutorial for Refresh Token
+		// https://www.bezkoder.com/spring-boot-refresh-token-jwt/
 	}
 
 }
